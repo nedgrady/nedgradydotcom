@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nedgradydotcom/precache-manifest.3ca48f7d73e6a9828bdc4dafa469fc99.js"
+  "/nedgradydotcom/precache-manifest.22a180c4e26bc7c2f0257aad7af8dcbb.js"
 );
 
 self.addEventListener('message', (event) => {
