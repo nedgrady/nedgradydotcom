@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nedgradydotcom/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nedgradydotcom/static/js/main.83d18077.chunk.js",
+    "main.js.map": "/nedgradydotcom/static/js/main.83d18077.chunk.js.map",
+    "runtime-main.js": "/nedgradydotcom/static/js/runtime-main.b897d72c.js",
+    "runtime-main.js.map": "/nedgradydotcom/static/js/runtime-main.b897d72c.js.map",
+    "static/js/2.f1bdf543.chunk.js": "/nedgradydotcom/static/js/2.f1bdf543.chunk.js",
+    "static/js/2.f1bdf543.chunk.js.map": "/nedgradydotcom/static/js/2.f1bdf543.chunk.js.map",
+    "index.html": "/nedgradydotcom/index.html",
+    "precache-manifest.3ca48f7d73e6a9828bdc4dafa469fc99.js": "/nedgradydotcom/precache-manifest.3ca48f7d73e6a9828bdc4dafa469fc99.js",
+    "service-worker.js": "/nedgradydotcom/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nedgradydotcom/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f1bdf543.chunk.js.LICENSE.txt": "/nedgradydotcom/static/js/2.f1bdf543.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b897d72c.js",
+    "static/js/2.f1bdf543.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.83d18077.chunk.js"
+  ]
+}
